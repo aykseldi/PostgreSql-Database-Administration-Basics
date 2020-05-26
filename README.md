@@ -1,4 +1,4 @@
-POSTGRESQL DATABASE BASICS
+#POSTGRESQL DATABASE  ADMINISTRATION BASICS
 
 We will do our practice on Vagrant. Vagrant is:
 
